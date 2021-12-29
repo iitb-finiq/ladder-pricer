@@ -1,3 +1,4 @@
+# Ladder Pricer
 ## Problem Statement:
 
 **PART 1**: Create a new model for pricing in which the banks(from here off denoted as suppliers) only send the prices/size for different "slabs" and the FINIQ server is responsible for getting the best price for the requested size.
